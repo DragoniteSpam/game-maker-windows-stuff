@@ -1,0 +1,5 @@
+launcher/
+data/
+*.a
+*.dll
+*.o
